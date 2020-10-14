@@ -4,8 +4,7 @@ hashketball = {
   home: {
     team_name: "Brooklyn Nets",
     colors: ["Black", "White"],
-    players: [
-    {
+    players: [{
         player_name: "Alan Anderson",
         number: 0,
         shoe: 16,
@@ -60,8 +59,7 @@ hashketball = {
   away: {
     team_name: "Charlotte Hornets",
     colors: ["Turquoise", "Purple"],
-    players: [
-      jeff_adrien: {
+    players: [{
         player_name: "Jeff Adrian",
         number: 4,
         shoe: 18,
@@ -71,7 +69,7 @@ hashketball = {
         steals: 2,
         blocks: 7,
         slam_dunks: 2 },
-      bismack_biyombo: {
+      {
         player_name: "Bismack Biyombo",
         number: 0,
         shoe: 16,
@@ -81,7 +79,7 @@ hashketball = {
         steals: 22,
         blocks: 15,
         slam_dunks: 10 },
-      desagna_diop: {
+      {
         player_name: "DeSagna Diop",
         number: 2,
         shoe: 14,
@@ -91,7 +89,7 @@ hashketball = {
         steals: 4,
         blocks: 5,
         slam_dunks: 5 },
-      ben_gordon: {
+      {
         player_name: "Ben Gordon",
         number: 8,
         shoe: 15,
@@ -101,7 +99,7 @@ hashketball = {
         steals: 1,
         blocks: 1,
         slam_dunks: 0 },
-      kemba_walker: {
+      {
         player_name: "Kemba Walker",
         number: 33,
         shoe: 15,
