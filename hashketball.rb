@@ -56,8 +56,6 @@ hashketball = {
         blocks: 11,
         slam_dunks: 1 },
     ]
-    binding.pry
-    puts "hi"
   },
   away: {
     team_name: "Charlotte Hornets",
@@ -116,4 +114,5 @@ hashketball = {
     ]
   }
 }
+binding.pry
 end
