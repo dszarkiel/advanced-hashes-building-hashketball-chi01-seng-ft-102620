@@ -57,7 +57,7 @@ hashketball = {
         slam_dunks: 1 },
     ]
     binding.pry
-    puts 'hi'
+    puts "hi"
   },
   away: {
     team_name: "Charlotte Hornets",
