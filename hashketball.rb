@@ -55,7 +55,6 @@ hashketball = {
         steals: 4,
         blocks: 11,
         slam_dunks: 1 },
-        binding.pry
     ]
   },
   away: {
@@ -115,4 +114,5 @@ hashketball = {
     ]
   }
 }
+pry
 end
