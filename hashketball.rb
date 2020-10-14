@@ -65,9 +65,9 @@ hashketball = {
         points: 10,
         rebounds: 1
         assists: 1
-        
+
       },
-      
+
     ]
   }
 }
