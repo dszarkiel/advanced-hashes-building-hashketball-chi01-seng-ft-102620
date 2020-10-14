@@ -54,7 +54,7 @@ hashketball = {
         blocks: 11,
         slam_dunks: 1 },
     ]
-  }}
+  }
   away: {
     team_name: "Charlotte Hornets",
     colors: ["Turquoise", "Purple"],
