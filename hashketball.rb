@@ -114,5 +114,5 @@ hashketball = {
     ]
   }
 }
-pry
+binding.pry
 end
